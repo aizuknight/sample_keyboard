@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "seeed_xiao_rp2040")(type "KiCad")(uri "${KIPRJMOD}/seeed_xiao_rp2040/seeed_xiao_rp2040.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+)
