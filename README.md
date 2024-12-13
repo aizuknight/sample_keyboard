@@ -1,4 +1,4 @@
-# sample_keyboard
+# Sample Keyboard
 This project aims to learn basics of custom build keyboard.
 
 ## Firmware
