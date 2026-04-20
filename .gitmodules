@@ -1,3 +1,3 @@
-[submodule "kbd"]
-	path = kbd
+[submodule "pcb/kbd"]
+	path = pcb/kbd
 	url = git@github.com:foostan/kbd.git
